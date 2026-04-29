@@ -1,0 +1,20 @@
+{
+"Age": 30,
+"MonthlyIncome": 5000,
+"EnvironmentSatisfaction": 3,
+"DailyWorkHours": 8,
+"current_breathing_issues": 0,
+"SleepDisorder": 0,
+"BMI": 25,
+"Smoking": 0,
+"HistoryOfAllergies": 0,
+"PetAllergy": 0,
+"Eczema": 0,
+"LungFunctionFEV1": 2.5,
+"LungFunctionFVC": 3.5,
+"Wheezing": 0,
+"ShortnessOfBreath": 0,
+"Gender_Male": 1,
+"MaritalStatus_Married": 0,
+"MaritalStatus_Single": 1
+}

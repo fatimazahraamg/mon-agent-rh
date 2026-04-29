@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pandas
+joblib
+shap
+requests
+langchain_ollama
+langchain-groq
